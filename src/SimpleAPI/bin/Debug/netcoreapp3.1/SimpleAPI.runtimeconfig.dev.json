@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/chosa/.dotnet/store/|arch|/|tfm|",
+      "/home/chosa/.nuget/packages"
+    ]
+  }
+}
